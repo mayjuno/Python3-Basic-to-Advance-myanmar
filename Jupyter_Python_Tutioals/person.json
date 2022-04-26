@@ -1,0 +1,28 @@
+{
+    "name": "Johne",
+    "age": 39,
+    "city": "Mandalay",
+    "job": [
+        "engineer",
+        "programmer"
+    ],
+    "married": true,
+    "wife": [
+        "Lisa"
+    ],
+    "hasChildrens": true,
+    "childrens": [
+        {
+            "name": "Raymond",
+            "age": 12,
+            "Gread": 6,
+            "gander": "male"
+        },
+        {
+            "name": "William",
+            "age": 9,
+            "Gread": 2,
+            "gander": "male"
+        }
+    ]
+}
